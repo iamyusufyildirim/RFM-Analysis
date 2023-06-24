@@ -6,7 +6,7 @@
 İş Problemi
 -----------
 
-İniltere merkezli perakende şirketi müşterilerini segmentlere ayırıp bu segmentler özelinde pazarlama stratejileri belirlemek istemektedir.
+İngiltere merkezli perakende şirketi müşterilerini segmentlere ayırıp bu segmentler özelinde pazarlama stratejileri belirlemek istemektedir.
 Ortak davranışlar sergileyen müşteri segmentleri özelinde pazarlama çalışmaları yapmanın gelir artışı sağlayacağını düşünmektedir.
 
 **Segmentleri ayırmak için `RFM Analizi` kullanılacaktır.**
